@@ -4,12 +4,19 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "news-i-will-be-presenting-my-research-at-2024-society-for-neuroscience-annual-meeting-as-a-george-w-housner-student-discovery-fund-fellow-in-chicago-if-you-will-be-attending-sfn-as-well-i-would-be-delighted-to-meet-and-chat",
+  },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Here are some courses I have worked as a teaching assistant for",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "news-i-will-be-presenting-my-research-at-2024-society-for-neuroscience-annual-meeting-as-a-george-w-housner-student-discovery-fund-fellow-in-chicago-if-you-will-be-attending-sfn-as-well-i-would-be-delighted-to-meet-and-chat",
           title: 'I will be presenting my research at 2024 Society for Neuroscience Annual Meeting...',
           description: "",
           section: "News",},{id: "news-research-a-virtual-human-exoskeleton-framework-for-personalized-gait-coordination-received-first-place-at-the-gee-family-surf-poster-competition-hosted-by-caltech-student-faculty-programs-i-am-grateful-for-the-recognition-and-for-the-support-of-the-caltech-faculty-and-review-committee",
