@@ -27,7 +27,7 @@ ninja.data = [{
           title: 'I will be presenting my research at 2024 Society for Neuroscience Annual Meeting...',
           description: "",
           section: "News",},{id: "news-research-a-virtual-human-exoskeleton-framework-for-personalized-gait-coordination-received-first-place-at-the-gee-family-surf-poster-competition-hosted-by-caltech-student-faculty-programs-i-am-grateful-for-the-recognition-and-for-the-support-of-the-caltech-faculty-and-review-committee",
-          title: 'Research “A Virtual Human–Exoskeleton Framework for Personalized Gait Coordination” received First Place at...',
+          title: 'Research A Virtual Human–Exoskeleton Framework for Personalized Gait Coordination received First Place at...',
           description: "",
           section: "News",},{id: "news-received-aaas-student-e-poster-competition-first-place-i-will-be-giving-an-oral-presentation-at-the-aaas-annual-conference-in-boston-if-you-will-be-attending-i-would-be-happy-to-meet-and-chat",
           title: 'Received AAAS Student E-Poster Competition First Place. I will be giving an oral...',
