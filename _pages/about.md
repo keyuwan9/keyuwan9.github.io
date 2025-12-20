@@ -35,7 +35,9 @@ announcements:
 
 Hi! My name is Keyu Wan. I am a fourth-year undergrad at [Caltech](https://www.eas.caltech.edu), majoring in Mechanical Engineering specializing in Robotics, and Control and Dynamic Systems (CDS). I am fortunate to work with Prof. [Aaron Ames](http://ames.caltech.edu), Prof. [Chiara Daraio](https://www.daraio.caltech.edu/daraio.html), Prof. [Mory Gharib](https://www.gharib.caltech.edu), and Prof. [Yuki Oka](https://www.okalab.caltech.edu) from Caltech, and Prof. [Shriya Srinivasan](https://bioniclab.seas.harvard.edu/person-page/) from Harvard.
 
-My goal is to enable assistive robotics that restore human function and enhance mobility through the integration of physiological sensing, biomechanics, and intelligent control within a closed-loop framework.
+My goal is to develop assistive robotics that restore human function and enhance mobility through the integration of biomechanics, physiological sensing, and intelligent control within a closed-loop framework. I hope to advance robotic systems that merge intelligent methods with engineering precision to achieve seamless human-robot integration.
+
+I am currently applying for PhD position!
 
 You are welcomed to take a look at my **CV** [here](/assets/pdf/Resume_Keyu%20Wan.pdf).
 
