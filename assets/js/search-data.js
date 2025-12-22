@@ -23,7 +23,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-i-will-be-presenting-my-research-at-2024-society-for-neuroscience-annual-meeting-as-a-george-w-housner-student-discovery-fund-fellow-in-chicago-if-you-will-be-attending-sfn-as-well-i-would-be-delighted-to-meet-and-chat",
+        },{id: "awards-best-paper-in-mechantronics-award-ieee-31st-international-conference-on-mechatronics-and-machine-vision-in-practice-m2vip",
+          title: 'Best Paper in Mechantronics Award, IEEE 31st International Conference on Mechatronics and Machine...',
+          description: "",
+          section: "Awards",},{id: "news-i-will-be-presenting-my-research-at-2024-society-for-neuroscience-annual-meeting-as-a-george-w-housner-student-discovery-fund-fellow-in-chicago-if-you-will-be-attending-sfn-as-well-i-would-be-delighted-to-meet-and-chat",
           title: 'I will be presenting my research at 2024 Society for Neuroscience Annual Meeting...',
           description: "",
           section: "News",},{id: "news-research-a-virtual-human-exoskeleton-framework-for-personalized-gait-coordination-received-first-place-at-the-gee-family-surf-poster-competition-hosted-by-caltech-student-faculty-programs-i-am-grateful-for-the-recognition-and-for-the-support-of-the-caltech-faculty-and-review-committee",
