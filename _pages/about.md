@@ -15,7 +15,7 @@ profile:
 
 News: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
-# social: true # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -33,7 +33,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Keyu Wan. I am a fourth-year undergrad at [Caltech](https://www.eas.caltech.edu), majoring in Mechanical Engineering specializing in Robotics, and Control and Dynamic Systems (CDS). I am fortunate to work with Prof. [Aaron Ames](http://ames.caltech.edu), Prof. [Chiara Daraio](https://www.daraio.caltech.edu/daraio.html), Prof. [Mory Gharib](https://www.gharib.caltech.edu), and Prof. [Yuki Oka](https://www.okalab.caltech.edu) from Caltech, and Prof. [Shriya Srinivasan](https://bioniclab.seas.harvard.edu/person-page/) from Harvard.
+Hi! My name is Keyu Wan. I am a fourth-year undergrad at [Caltech](https://www.eas.caltech.edu), majoring in Mechanical Engineering specializing in Robotics, and Control and Dynamical Systems (CDS). I am fortunate to work with Prof. [Aaron Ames](http://ames.caltech.edu), Prof. [Chiara Daraio](https://www.daraio.caltech.edu/daraio.html), Prof. [Mory Gharib](https://www.gharib.caltech.edu), and Prof. [Yuki Oka](https://www.okalab.caltech.edu) from Caltech, and Prof. [Shriya Srinivasan](https://bioniclab.seas.harvard.edu/person-page/) from Harvard.
 
 My goal is to develop assistive robotics that restore human function and enhance mobility through the integration of biomechanics, physiological sensing, and intelligent control within a closed-loop framework. I hope to advance robotic systems that merge intelligent methods with engineering precision to achieve seamless human-robot integration.
 
