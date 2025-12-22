@@ -149,6 +149,13 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  awards:
+    defaults:
+      layout: post
+    output: true
+
+news_limit: 10
+awards_limit: 20
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

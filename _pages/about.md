@@ -13,8 +13,8 @@ profile:
     <p>1200 E California Blvd</p>
     <p>Pasadena, CA 91126</p>
 
-News: true # includes a list of news items
-# selected_papers: true # includes a list of papers marked as "selected={true}"
+news: true # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,10 +27,10 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 #   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi! My name is Keyu Wan. I am a fourth-year undergrad at [Caltech](https://www.eas.caltech.edu), majoring in Mechanical Engineering specializing in Robotics, and Control and Dynamical Systems (CDS). I am fortunate to work with Prof. [Aaron Ames](http://ames.caltech.edu), Prof. [Chiara Daraio](https://www.daraio.caltech.edu/daraio.html), Prof. [Mory Gharib](https://www.gharib.caltech.edu), and Prof. [Yuki Oka](https://www.okalab.caltech.edu) from Caltech, and Prof. [Shriya Srinivasan](https://bioniclab.seas.harvard.edu/person-page/) from Harvard.
