@@ -1,0 +1,10 @@
+{% if site.awards %}
+  <section class="awards">
+    <h2>Awards</h2>
+    <ul>
+      {% for award in site.awards %}
+        <li>{{ award }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}
