@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06-23 15:59:00-0400
+date: 2025-08-29 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Arrived at Harvard University [BIONICS LAB](https://bioniclab.seas.harvard.edu) and started working with Prof. Shriya Srinivasan on multimodal modeling and prediction of neuromuscular fatigue for intelligent control during functional electrical stimulation of a murine hindlimb. I am excited to build deep-learning models with physiology-informed features to predict fatigue and guide adaptive stimulation!
+[Design and Analysis of Bio-inspired Soft Body Morphing Quadcopter](https://doi.org/10.1109/M2VIP67511.2025.11165708) received the Best Paper in Mechantronics Award at the 31st [IEEE International Conference on Mechatronics and Machine Vision in Practice (M2VIP)](https://m2vip.dlsu.edu.ph)!
