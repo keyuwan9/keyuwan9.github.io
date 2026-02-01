@@ -33,13 +33,15 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Keyu Wan. I am a fourth-year undergrad at [Caltech](https://www.eas.caltech.edu), majoring in Mechanical Engineering specializing in Robotics, and Control and Dynamical Systems (CDS). I am fortunate to work with Prof. [Aaron Ames](http://ames.caltech.edu), Prof. [Chiara Daraio](https://www.daraio.caltech.edu/daraio.html), Prof. [Mory Gharib](https://www.gharib.caltech.edu), Prof. [Yuki Oka](https://www.okalab.caltech.edu). Also I am grateful to have received academic mentorship from Prof. [Henry Lester](https://henrylesterresearchgroup.caltech.edu/lester) and Prof. [John Dabiri](https://mce.caltech.edu/people/jodabiri).
+Hi! My name is Keyu Wan. I am a fourth-year undergrad at [Caltech](https://www.eas.caltech.edu), majoring in Mechanical Engineering specializing in Robotics, and Control and Dynamical Systems (CDS). I am fortunate to work with Prof. [Aaron Ames](http://ames.caltech.edu), Prof. [Chiara Daraio](https://www.daraio.caltech.edu/daraio.html), Prof. [Mory Gharib](https://www.gharib.caltech.edu), and Prof. [Yuki Oka](https://www.okalab.caltech.edu). Also I am grateful to have received academic mentorship from Prof. [Henry Lester](https://henrylesterresearchgroup.caltech.edu/lester) and Prof. [John Dabiri](https://mce.caltech.edu/people/jodabiri).
 
 My research interest is to develop assistive robotics that restore human function and enhance mobility through the integration of biomechanics, physiological sensing, and intelligent control within a closed-loop framework. I hope to advance robotic systems that merge intelligent methods with engineering precision to achieve seamless human-robot integration.
 
-I am currently applying for PhD position!
+I am open to collaborations/discussions. Feel free to email me at kwan2@caltech.edu.
 
-You are welcomed to take a look at my **CV** [here](/assets/pdf/Resume_Keyu%20Wan.pdf).
+I am currently applying for PhD position starting Fall 2026! Would love to connect if you see potential fits!
+
+<!-- You are welcomed to take a look at my **CV** [here](/assets/pdf/Resume_Keyu%20Wan.pdf). -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
