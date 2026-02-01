@@ -33,7 +33,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Keyu Wan. I am a fourth-year undergrad at [Caltech](https://www.eas.caltech.edu), majoring in Mechanical Engineering specializing in Robotics, and Control and Dynamical Systems (CDS). I am fortunate to work with Prof. [Aaron Ames](http://ames.caltech.edu), Prof. [Chiara Daraio](https://www.daraio.caltech.edu/daraio.html), Prof. [Mory Gharib](https://www.gharib.caltech.edu), and Prof. [Yuki Oka](https://www.okalab.caltech.edu) from Caltech.
+Hi! My name is Keyu Wan. I am a fourth-year undergrad at [Caltech](https://www.eas.caltech.edu), majoring in Mechanical Engineering specializing in Robotics, and Control and Dynamical Systems (CDS). I am fortunate to work with Prof. [Aaron Ames](http://ames.caltech.edu), Prof. [Chiara Daraio](https://www.daraio.caltech.edu/daraio.html), Prof. [Mory Gharib](https://www.gharib.caltech.edu), Prof. [Yuki Oka](https://www.okalab.caltech.edu). Also I am grateful to have received academic mentorship from Prof. [Henry Lester](https://henrylesterresearchgroup.caltech.edu/lester) and Prof. [John Dabiri](https://mce.caltech.edu/people/jodabiri).
 
 My goal is to develop assistive robotics that restore human function and enhance mobility through the integration of biomechanics, physiological sensing, and intelligent control within a closed-loop framework. I hope to advance robotic systems that merge intelligent methods with engineering precision to achieve seamless human-robot integration.
 
